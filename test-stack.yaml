@@ -40,4 +40,3 @@ Resources:
         IpProtocol: tcp
         ToPort: 443
 
-
